@@ -6,4 +6,7 @@
 
 ## témata:
 ### Objektově orientované programování
-[dědičnost](/simpleclasses/animals)
+- [dědičnost](/simpleclasses/animals)
+- [abstraktní třídy](/simpleclasses/vehicles)
+- [rozhraní](/simpleclasses/shapes)
+- [polymorfizmus](/simpleclasses/calculator)
