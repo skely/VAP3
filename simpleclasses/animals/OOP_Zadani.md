@@ -37,7 +37,11 @@
 ### Vytvořte spustitelnou třídu AnimalMain:
 - Vytvořte několik objektů typu `Dog` a `Cat`.
 - Uložte tyto objekty do pole typu `Animal[]`.
+- Nastavte věk každému zvířeti.
 - Procházejte toto pole a:
-    - Nastavte věk každému zvířeti.
-    - Zavolejte metody `makeSound()`, `introduceYourself()` a `growOlder()`.
-- Nakonec znovu zavolejte metodu `introduceYourself()` po "zestárnutí" všech zvířat.
+    - Zavolejte metody `makeSound()`, `introduceYourself()` nad každým objektem v poli.
+- Procházejte toto pole a:
+    - Zavolejte metodu `growOlder()` nad každým objektem v poli.
+- Procházejte toto pole a:
+    - Zavolejte metodu `introduceYourself()` nad každým objektem v poli.
+

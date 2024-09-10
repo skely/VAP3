@@ -1,7 +1,7 @@
 package simpleclasses.animals;
 
 public class Cat extends Animal{
-    public String color;
+    private String color;
     public Cat(String name, String color) {
         super(name);
         this.color = color;
